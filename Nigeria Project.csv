@@ -1,4 +1,4 @@
-Year,NGX ASI,GDP (Current Market Prices in ?'bn),Inflation (%),MPR (%),Ex.Rate (?/$),Oil Price ($/bbl)
+Year,NGXASI,GDP,Inflation,MPR,Ex_rate,Oil_price
 1995,5092.2,3100.235094,18.32254696,,84.575,18.33
 1996,6992.1,4086.065207,23.68949875,,79.6,23.81
 1997,6440.5,4418.708748,26.21782577,,74.625,16.52
